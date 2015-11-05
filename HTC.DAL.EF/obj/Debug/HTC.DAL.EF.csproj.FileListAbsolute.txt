@@ -1,0 +1,65 @@
+D:\HTCWPF\HTCWPF\HTC.DAL.EF\bin\Debug\HTC.DAL.EF.dll.config
+D:\HTCWPF\HTCWPF\HTC.DAL.EF\bin\Debug\HTC.DAL.EF.dll
+D:\HTCWPF\HTCWPF\HTC.DAL.EF\bin\Debug\HTC.DAL.EF.pdb
+D:\HTCWPF\HTCWPF\HTC.DAL.EF\bin\Debug\EntityFramework.dll
+D:\HTCWPF\HTCWPF\HTC.DAL.EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\HTCWPF\HTCWPF\HTC.DAL.EF\bin\Debug\HTC.DAL.dll
+D:\HTCWPF\HTCWPF\HTC.DAL.EF\bin\Debug\HTCDOMAIN.dll
+D:\HTCWPF\HTCWPF\HTC.DAL.EF\bin\Debug\HTC.DAL.pdb
+D:\HTCWPF\HTCWPF\HTC.DAL.EF\bin\Debug\HTCDOMAIN.pdb
+D:\HTCWPF\HTCWPF\HTC.DAL.EF\bin\Debug\EntityFramework.xml
+D:\HTCWPF\HTCWPF\HTC.DAL.EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\HTCWPF\HTCWPF\HTC.DAL.EF\obj\Debug\HTC.DAL.EF.csprojResolveAssemblyReference.cache
+D:\HTCWPF\HTCWPF\HTC.DAL.EF\obj\Debug\HTC.DAL.EF.dll
+D:\HTCWPF\HTCWPF\HTC.DAL.EF\obj\Debug\HTC.DAL.EF.pdb
+D:\HTCWPF\HTCWPF\HTC.DAL.EF\bin\Debug\Ninject.dll
+D:\HTCWPF\HTCWPF\HTC.DAL.EF\bin\Debug\Ninject.xml
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTC.DAL.EF\bin\Debug\HTC.DAL.EF.dll.config
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTC.DAL.EF\bin\Debug\HTC.DAL.EF.dll
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTC.DAL.EF\bin\Debug\HTC.DAL.EF.pdb
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTC.DAL.EF\bin\Debug\EntityFramework.dll
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTC.DAL.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTC.DAL.EF\bin\Debug\HTC.DAL.dll
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTC.DAL.EF\bin\Debug\HTCDOMAIN.dll
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTC.DAL.EF\bin\Debug\Ninject.dll
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTC.DAL.EF\bin\Debug\HTC.DAL.pdb
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTC.DAL.EF\bin\Debug\HTCDOMAIN.pdb
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTC.DAL.EF\bin\Debug\EntityFramework.xml
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTC.DAL.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTC.DAL.EF\bin\Debug\Ninject.xml
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTC.DAL.EF\obj\Debug\HTC.DAL.EF.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTC.DAL.EF\obj\Debug\HTC.DAL.EF.dll
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTC.DAL.EF\obj\Debug\HTC.DAL.EF.pdb
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTC.DAL.EF\bin\Debug\DatabaseFile\HTCDatabase.mdf
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTC.DAL.EF\bin\Debug\DatabaseFile\HTCDatabase_log.ldf
+D:\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\HTC.DAL.EF.dll.config
+D:\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\HTC.DAL.EF.pdb
+D:\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\EntityFramework.dll
+D:\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\HTC.DAL.dll
+D:\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\HTCDOMAIN.dll
+D:\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\Ninject.dll
+D:\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\HTC.DAL.pdb
+D:\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\HTCDOMAIN.pdb
+D:\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\EntityFramework.xml
+D:\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\Ninject.xml
+D:\HTCPROJECT\HTCWPF\HTC.DAL.EF\obj\Debug\HTC.DAL.EF.csprojResolveAssemblyReference.cache
+D:\HTCPROJECT\HTCWPF\HTC.DAL.EF\obj\Debug\HTC.DAL.EF.dll
+D:\HTCPROJECT\HTCWPF\HTC.DAL.EF\obj\Debug\HTC.DAL.EF.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\HTC.DAL.EF.dll.config
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\HTC.DAL.EF.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\EntityFramework.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\HTC.DAL.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\HTCDOMAIN.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\Ninject.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\HTC.DAL.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\HTCDOMAIN.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\EntityFramework.xml
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\Ninject.xml
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL.EF\obj\Debug\HTC.DAL.EF.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL.EF\obj\Debug\HTC.DAL.EF.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL.EF\obj\Debug\HTC.DAL.EF.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\HTC.DAL.EF.dll

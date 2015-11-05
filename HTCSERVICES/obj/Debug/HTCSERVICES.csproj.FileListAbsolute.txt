@@ -1,0 +1,46 @@
+﻿C:\Users\Piotr\Documents\HTC\HTCWPF\HTCSERVICES\bin\Debug\DatabaseFile\HTCDatabase.mdf
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTCSERVICES\bin\Debug\DatabaseFile\HTCDatabase_log.ldf
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTCSERVICES\bin\Debug\HTCSERVICES.dll
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTCSERVICES\bin\Debug\HTCSERVICES.pdb
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTCSERVICES\bin\Debug\HTC.DAL.dll
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTCSERVICES\bin\Debug\HTC.DAL.EF.dll
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTCSERVICES\bin\Debug\HTCDOMAIN.dll
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTCSERVICES\bin\Debug\EntityFramework.dll
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTCSERVICES\bin\Debug\HTC.DAL.EF.pdb
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTCSERVICES\bin\Debug\HTC.DAL.pdb
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTCSERVICES\bin\Debug\HTCDOMAIN.pdb
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTCSERVICES\bin\Debug\EntityFramework.xml
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTCSERVICES\obj\Debug\HTCSERVICES.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTCSERVICES\obj\Debug\HTCSERVICES.dll
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTCSERVICES\obj\Debug\HTCSERVICES.pdb
+D:\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\HTCSERVICES.dll
+D:\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\HTCSERVICES.pdb
+D:\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\HTC.DAL.dll
+D:\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\HTC.DAL.EF.dll
+D:\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\HTCDOMAIN.dll
+D:\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\EntityFramework.dll
+D:\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\HTC.DAL.EF.pdb
+D:\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\HTC.DAL.pdb
+D:\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\HTCDOMAIN.pdb
+D:\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\EntityFramework.xml
+D:\HTCPROJECT\HTCWPF\HTCSERVICES\obj\Debug\HTCSERVICES.csprojResolveAssemblyReference.cache
+D:\HTCPROJECT\HTCWPF\HTCSERVICES\obj\Debug\HTCSERVICES.dll
+D:\HTCPROJECT\HTCWPF\HTCSERVICES\obj\Debug\HTCSERVICES.pdb
+D:\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\DatabaseFile\HTCDatabase.mdf
+D:\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\DatabaseFile\HTCDatabase_log.ldf
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCSERVICES\obj\Debug\HTCSERVICES.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCSERVICES\obj\Debug\HTCSERVICES.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\HTCSERVICES.dll.config
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\HTCSERVICES.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\HTCSERVICES.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\EntityFramework.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\HTC.DAL.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\HTC.DAL.EF.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\HTCDOMAIN.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\HTC.DAL.EF.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\HTC.DAL.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\EntityFramework.xml
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\HTCDOMAIN.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCSERVICES\obj\Debug\HTCSERVICES.pdb

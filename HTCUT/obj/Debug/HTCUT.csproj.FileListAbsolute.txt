@@ -1,0 +1,42 @@
+D:\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\HTCUT.dll.config
+D:\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\HTCUT.dll
+D:\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\HTCUT.pdb
+D:\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\EntityFramework.dll
+D:\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\EntityFramework.SqlServer.dll
+D:\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\HTC.DAL.dll
+D:\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\HTC.DAL.EF.dll
+D:\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\HTCDOMAIN.dll
+D:\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\HTCSERVICES.dll
+D:\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\Moq.dll
+D:\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\HTC.DAL.EF.pdb
+D:\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\HTC.DAL.pdb
+D:\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\HTCDOMAIN.pdb
+D:\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\HTCSERVICES.pdb
+D:\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\EntityFramework.xml
+D:\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\EntityFramework.SqlServer.xml
+D:\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\Moq.xml
+D:\HTCPROJECT\HTCWPF\HTCUT\obj\Debug\HTCUT.csprojResolveAssemblyReference.cache
+D:\HTCPROJECT\HTCWPF\HTCUT\obj\Debug\HTCUT.dll
+D:\HTCPROJECT\HTCWPF\HTCUT\obj\Debug\HTCUT.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\HTCUT.dll.config
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\HTCUT.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\HTCUT.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\EntityFramework.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\HTC.DAL.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\HTC.DAL.EF.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\HTCDOMAIN.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\HTCSERVICES.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\Moq.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\HTC.DAL.EF.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\HTC.DAL.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\HTCDOMAIN.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\HTCSERVICES.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\EntityFramework.xml
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\Moq.xml
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCUT\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCUT\obj\Debug\HTCUT.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCUT\obj\Debug\HTCUT.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCUT\obj\Debug\HTCUT.pdb

@@ -1,0 +1,30 @@
+D:\HTCWPF\HTCWPF\HTC.DAL\bin\Debug\HTC.DAL.dll
+D:\HTCWPF\HTCWPF\HTC.DAL\bin\Debug\HTC.DAL.pdb
+D:\HTCWPF\HTCWPF\HTC.DAL\obj\Debug\HTC.DAL.csprojResolveAssemblyReference.cache
+D:\HTCWPF\HTCWPF\HTC.DAL\obj\Debug\HTC.DAL.dll
+D:\HTCWPF\HTCWPF\HTC.DAL\obj\Debug\HTC.DAL.pdb
+D:\HTCPROJECT\HTCWPF\HTC.DAL\bin\Debug\HTC.DAL.dll
+D:\HTCPROJECT\HTCWPF\HTC.DAL\bin\Debug\HTC.DAL.pdb
+D:\HTCPROJECT\HTCWPF\HTC.DAL\obj\Debug\HTC.DAL.dll
+D:\HTCPROJECT\HTCWPF\HTC.DAL\obj\Debug\HTC.DAL.pdb
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTC.DAL\bin\Debug\HTC.DAL.dll
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTC.DAL\bin\Debug\HTC.DAL.pdb
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTC.DAL\obj\Debug\HTC.DAL.dll
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTC.DAL\obj\Debug\HTC.DAL.pdb
+D:\HTCPROJECT\HTCWPF\HTC.DAL\obj\Debug\HTC.DAL.csprojResolveAssemblyReference.cache
+D:\HTCPROJECT\HTCWPF\HTC.DAL\bin\Debug\HTCDOMAIN.dll
+D:\HTCPROJECT\HTCWPF\HTC.DAL\bin\Debug\HTCDOMAIN.pdb
+D:\HTCPROJECT\HTCWPF\HTC.DAL\bin\Debug\DatabaseFile\HTCDatabase.mdf
+D:\HTCPROJECT\HTCWPF\HTC.DAL\bin\Debug\DatabaseFile\HTCDatabase_log.ldf
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL\bin\Debug\HTC.DAL.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL\bin\Debug\HTC.DAL.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL\bin\Debug\HTCDOMAIN.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL\bin\Debug\HTCDOMAIN.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL\obj\Debug\HTC.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL\obj\Debug\HTC.DAL.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL\obj\Debug\HTC.DAL.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL\bin\Debug\HTC.DAL.dll.config
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL\bin\Debug\EntityFramework.SqlServer.xml

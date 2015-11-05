@@ -1,0 +1,570 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="13ebf653-4fb2-43e5-83c8-40de6655ca87"
+  name="DomainDiagram" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <appliedStereotypesInternal>
+    <stereotypeInstance
+      Id="69c671c8-a750-4a04-a248-ea7c65550bc8"
+      name="namespace"
+      profile="CSharpProfile">
+      <propertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="79b9ab71-3d38-43d7-aae6-b5465bcd0075">
+          <propertyInstance
+            Id="b0827c2a-3f34-40c9-a2e5-7b066f777349"
+            name="BaseName" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="78aca3d2-0691-4148-b8bd-50f929aed8a1">
+          <propertyInstance
+            Id="7f520965-d249-4845-9136-ce89d5fb7b01"
+            name="ClrAttributes" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="ae46987f-43bc-4783-86ed-95c591e16f1c">
+          <propertyInstance
+            Id="72e9b3f5-38a2-4fed-aa3d-593f8885be39"
+            name="Usings" />
+        </stereotypeInstanceHasPropertyInstances>
+      </propertyInstances>
+    </stereotypeInstance>
+    <stereotypeInstance
+      Id="1aaa7f53-e734-434d-bda6-9c01b7da70b8"
+      name="TextTemplateBindings"
+      profile="TextTemplateBindings">
+      <propertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="6959214e-0dae-4435-a196-26710029f404">
+          <propertyInstance
+            Id="b828f6ba-d865-4f0e-9d94-c247c183c9f3"
+            name="Alias"
+            value="ClassTemplate|EnumTemplate|InterfaceTemplate|StructTemplate" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="722f8bc6-d58c-4b5e-8885-c1974221e4b8">
+          <propertyInstance
+            Id="63cea8cd-7cb0-4618-b583-c0b50f13818c"
+            name="TemplateFilePath"
+            value="ClassTemplate=D:\PLIKI PROGRAMÓW (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4|EnumTemplate=D:\PLIKI PROGRAMÓW (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4|InterfaceTemplate=D:\PLIKI PROGRAMÓW (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4|StructTemplate=D:\PLIKI PROGRAMÓW (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="77bae89b-7647-421b-9588-f9357cae6d75">
+          <propertyInstance
+            Id="4593fa6b-1ee4-4594-91d5-0cfc3302c3f6"
+            name="ProjectPath"
+            value="ClassTemplate=..\DomainDiagramLib\DomainDiagramLib.csproj|EnumTemplate=..\DomainDiagramLib\DomainDiagramLib.csproj|InterfaceTemplate=..\DomainDiagramLib\DomainDiagramLib.csproj|StructTemplate=..\DomainDiagramLib\DomainDiagramLib.csproj" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="50777764-1154-42f7-94d2-7bac059142bf">
+          <propertyInstance
+            Id="8bbefd34-6a6e-4859-bcda-8bdd7406091b"
+            name="TargetDirectory"
+            value="ClassTemplate=GeneratedCode\{PackageStructure}|EnumTemplate=GeneratedCode\{PackageStructure}|InterfaceTemplate=GeneratedCode\{PackageStructure}|StructTemplate=GeneratedCode\{PackageStructure}" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="8d6350c7-df3a-4994-bdaf-fbec6949dde4">
+          <propertyInstance
+            Id="e4efed4a-ec9f-473b-afde-1415559dadbe"
+            name="TargetName"
+            value="ClassTemplate={Name}|EnumTemplate={Name}|InterfaceTemplate={Name}|StructTemplate={Name}" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="7e439a38-21f1-4005-b8f4-f4c6abaf566b">
+          <propertyInstance
+            Id="4a8bbb67-06e9-4f61-9c61-3e1fb08e76d5"
+            name="Overwrite"
+            value="ClassTemplate=True|EnumTemplate=True|InterfaceTemplate=True|StructTemplate=True" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="bcf1c2a3-0f13-4c95-ab26-f29f8110f74e">
+          <propertyInstance
+            Id="00868c0e-8986-4698-98fb-a597ad05a11f"
+            name="Parameters" />
+        </stereotypeInstanceHasPropertyInstances>
+      </propertyInstances>
+    </stereotypeInstance>
+  </appliedStereotypesInternal>
+  <profileInstances>
+    <packageHasProfileInstances
+      Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b">
+      <profileInstance
+        Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791"
+        name="StandardProfileL2" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="29349502-908c-4fda-9054-c48619c59ed0">
+      <profileInstance
+        Id="532ea607-fb19-44b8-8502-3351b05452be"
+        name="StandardProfileL3" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="158a1abb-4b06-4b4c-af8b-00d169738c25">
+      <profileInstance
+        Id="851fbf16-9ad3-4e6b-afe9-04a177f485e8"
+        name="CSharpProfile" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="02b45238-25ca-4c05-bfc9-f96aa4599825">
+      <profileInstance
+        Id="5bbf6e00-9e42-4e56-907e-e8aca1280311"
+        name="TextTemplateBindings" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <packageHasNamedElement>
+      <class
+        Id="8f1580bf-071d-44d1-9d40-bc418922512f"
+        name="Abst.Person inh.DomainObject"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <generalsInternal>
+          <generalization
+            Id="e75d7df3-1663-4eac-b6a8-d3e64b9b50a9"
+            isSubstitutable="false">
+            <classMoniker
+              Id="c1824588-520e-42ea-939b-65963885e828"
+              LastKnownName="Abst. DomainObject"
+              LastKnownLocation="DomainDiagram.uml" />
+          </generalization>
+        </generalsInternal>
+        <ownedAttributesInternal>
+          <property
+            Id="ac8b5441-8417-44ab-affc-0aabc1cf5c06"
+            name="Name"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false" />
+          <property
+            Id="a48aee81-3def-4919-8fa0-377e5efbfd50"
+            name="Last Name"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false" />
+          <property
+            Id="93c9cd1f-856d-454d-a9ad-4d0884f4a57d"
+            name="Ilist Order"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false" />
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation
+            Id="c3462733-181f-46ed-8a93-eda0d1731a86"
+            name="Add order"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false" />
+          <operation
+            Id="dad4572c-66bb-4bd5-be5d-d50f5e715649"
+            name="Edit order"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false" />
+        </ownedOperationsInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <Interface
+        Id="ed24c96b-ac1f-4a46-afe2-4e6474d04df0"
+        name="Interface1"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="779b0a17-8503-48f1-9a08-b81d64079d08"
+        name="Sealed driver inh.Person"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <suppliersInternal>
+          <dependency
+            Id="57d0224d-b4b3-4771-a093-b60e610cfe1a">
+            <classMoniker
+              Id="3a0108d3-151d-40a0-b462-904ee4979253"
+              LastKnownName="sealed Order inh.DomainObject"
+              LastKnownLocation="DomainDiagram.uml" />
+          </dependency>
+        </suppliersInternal>
+        <generalsInternal>
+          <generalization
+            Id="02e0c903-1765-44a5-a25e-0a667d45e93b"
+            isSubstitutable="false">
+            <classMoniker
+              Id="8f1580bf-071d-44d1-9d40-bc418922512f"
+              LastKnownName="Abst.Person inh.DomainObject"
+              LastKnownLocation="DomainDiagram.uml" />
+          </generalization>
+        </generalsInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="ace63775-a54c-4136-a8cb-2642abe14b63"
+        name="Sealed Admin inh.Person"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <suppliersInternal>
+          <dependency
+            Id="6d6a7f3b-16d1-462e-8d61-d10ba05ea0d9">
+            <classMoniker
+              Id="3a0108d3-151d-40a0-b462-904ee4979253"
+              LastKnownName="sealed Order inh.DomainObject"
+              LastKnownLocation="DomainDiagram.uml" />
+          </dependency>
+        </suppliersInternal>
+        <generalsInternal>
+          <generalization
+            Id="395b05a5-d726-4c54-8ac4-97b9fd31f533"
+            isSubstitutable="false">
+            <classMoniker
+              Id="8f1580bf-071d-44d1-9d40-bc418922512f"
+              LastKnownName="Abst.Person inh.DomainObject"
+              LastKnownLocation="DomainDiagram.uml" />
+          </generalization>
+        </generalsInternal>
+        <ownedOperationsInternal>
+          <operation
+            Id="b3f0606c-b665-4980-9459-80aba98e3af9"
+            name="Add driver"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false" />
+          <operation
+            Id="f64ddc17-d6f8-4c29-9e12-cc6e72926024"
+            name="Add Product"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false" />
+          <operation
+            Id="1500968d-e06d-4cac-80c6-5aacb10fb5d6"
+            name="Delete Order"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false" />
+          <operation
+            Id="cb48e3d4-f491-48e1-acca-02ec14a368d0"
+            name="Delete Product"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false" />
+          <operation
+            Id="dd3d880d-5971-454a-b68f-3037c5aedf0f"
+            name="Delete driver"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false" />
+        </ownedOperationsInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="3a0108d3-151d-40a0-b462-904ee4979253"
+        name="sealed Order inh.DomainObject"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <targetEnds>
+          <association
+            Id="07a1fc07-3c4e-4e42-8375-d786282e550e"
+            isDerived="false"
+            sourceEndRoleName="sealed Order inh.DomainObject"
+            targetEndRoleName="sealed OrderLine inh.DomainObject "
+            isLeaf="false"
+            isAbstract="false">
+            <classMoniker
+              Id="d5fe7256-4101-4357-a196-0839a527f628"
+              LastKnownName="sealed OrderLine inh.DomainObject "
+              LastKnownLocation="DomainDiagram.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="cb90abf1-6324-4fbb-8753-b1609a638726"
+                  name="sealed Order inh.DomainObject"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="1cd6c7ee-3328-4ce5-ac15-333777d6a4d1"
+                  name="sealed OrderLine inh.DomainObject "
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+        <ownedAttributesInternal>
+          <property
+            Id="df83e94f-cc4a-43fb-8766-ba575546582c"
+            name="OrderLine"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false" />
+          <property
+            Id="fa3a65ce-ce3e-4094-b30e-2fd772d98ba4"
+            name="Date"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false" />
+          <property
+            Id="65a31f39-ca6d-4adb-a810-49474a4ee655"
+            name="Dirver"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false" />
+          <property
+            Id="aa398b54-1455-4a57-831b-e321ec5390f1"
+            name="Adress"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false" />
+          <property
+            Id="a4d6fe16-b8be-4046-a40d-09a6ad446d50"
+            name="street Adress"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false" />
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation
+            Id="360823eb-7215-422e-9998-6528af7749e0"
+            name="Add Product"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false" />
+        </ownedOperationsInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="c1824588-520e-42ea-939b-65963885e828"
+        name="Abst. DomainObject"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <ownedAttributesInternal>
+          <property
+            Id="19d43974-487f-43a3-b9d4-fd1826997a1c"
+            name="Guid Primary key"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false" />
+        </ownedAttributesInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="d8050fcc-7256-47c4-88fe-2ed714ce11dd"
+        name="Product sealed inh.DomainObject"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <ownedAttributesInternal>
+          <property
+            Id="6e0e0578-6ce8-40fb-87b2-92e909790ff5"
+            name="Name"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false" />
+          <property
+            Id="fe7abcc4-d5f6-4ae3-bb4e-60861f6f423f"
+            name="Price"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false" />
+          <property
+            Id="d2e96e40-a347-408e-8792-3ca6d5c7a5ae"
+            name="Size"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false" />
+        </ownedAttributesInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="d5fe7256-4101-4357-a196-0839a527f628"
+        name="sealed OrderLine inh.DomainObject "
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <suppliersInternal>
+          <dependency
+            Id="23537ff6-017e-435a-9f5d-2f1308be2832">
+            <classMoniker
+              Id="d8050fcc-7256-47c4-88fe-2ed714ce11dd"
+              LastKnownName="Product sealed inh.DomainObject"
+              LastKnownLocation="DomainDiagram.uml" />
+          </dependency>
+        </suppliersInternal>
+        <ownedAttributesInternal>
+          <property
+            Id="7c7a191b-58f8-4993-8d79-b3daea0bd673"
+            name="Product"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false" />
+          <property
+            Id="c4aecc33-5e02-43e3-a4d2-de42ffdf5a4f"
+            name="Order"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false" />
+          <property
+            Id="0303b053-5f69-4485-9ba1-018e05ce56a6"
+            name="quantity"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false" />
+          <property
+            Id="64371e39-382d-415e-9c6c-79fc27b3c7de"
+            name="Total"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isUnique="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false" />
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation
+            Id="3f30d3b2-2c3d-4be4-b8a1-c58b6980de5d"
+            name="CalculateTotal"
+            isLeaf="false"
+            isStatic="false"
+            isAbstract="false"
+            concurrency="Sequential"
+            isQuery="false" />
+        </ownedOperationsInternal>
+      </class>
+    </packageHasNamedElement>
+  </packagedElements>
+  <primitiveType
+    Id="220a3521-e091-4221-bae9-3ef9018e845c"
+    name="Integer"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="8943dc84-709e-4f62-b15a-a3273aa6f165"
+    name="Boolean"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="59259974-6d55-42c6-b7bd-763d77ac8ef9"
+    name="String"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="3ab42e7d-4969-445a-b209-471f5cb8209c"
+    name="UnlimitedNatural"
+    isAbstract="false"
+    isLeaf="false" />
+</modelStoreModel>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///D:/PLIKI PROGRAMÓW (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2015-10-20T15:54:56" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2015-10-20T15:54:56" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2015-10-20T15:54:56" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2015-10-20T15:54:56" Importance="Diagnostic" Text="ProjectPath = ..\DomainDiagramLib\DomainDiagramLib.csproj" />
+  <Message Timestamp="2015-10-20T15:54:56" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2015-10-20T15:54:56" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2015-10-20T15:54:56" Importance="Diagnostic" Text="TemplateFilePath = D:\PLIKI PROGRAMÓW (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2015-10-20T15:54:56" Importance="Diagnostic" Text="ResolvedTemplateFilePath = D:\PLIKI PROGRAMÓW (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2015-10-20T15:54:56" Importance="Medium" Text="DomainDiagram's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'DomainDiagram::Abst. DomainObject' -  (Class), 'DomainDiagram::Abst.Person inh.DomainObject' -  (Class), 'DomainDiagram::Sealed Admin inh.Person' -  (Class), 'DomainDiagram::Sealed driver inh.Person' -  (Class), 'DomainDiagram::sealed Order inh.DomainObject' -  (Class) " />
+  <Message Timestamp="2015-10-20T15:55:09" Importance="Medium" Text="Project Added: D:\HTCWPF\HTCWPF\DomainDiagramLib\DomainDiagramLib.csproj" />
+  <Message Timestamp="2015-10-20T15:55:09" Importance="Medium" Text="'DomainDiagram::Abst. DomainObject' -  (Class) : success (file created) - D:\HTCWPF\HTCWPF\DomainDiagramLib\GeneratedCode\Abst. DomainObject.cs" />
+  <Message Timestamp="2015-10-20T15:55:11" Importance="Medium" Text="'DomainDiagram::Abst.Person inh.DomainObject' -  (Class) : success (file created) - D:\HTCWPF\HTCWPF\DomainDiagramLib\GeneratedCode\Abst.Person inh.DomainObject.cs" />
+  <Message Timestamp="2015-10-20T15:55:11" Importance="Medium" Text="'DomainDiagram::Sealed Admin inh.Person' -  (Class) : success (file created) - D:\HTCWPF\HTCWPF\DomainDiagramLib\GeneratedCode\Sealed Admin inh.Person.cs" />
+  <Message Timestamp="2015-10-20T15:55:11" Importance="Medium" Text="'DomainDiagram::Sealed driver inh.Person' -  (Class) : success (file created) - D:\HTCWPF\HTCWPF\DomainDiagramLib\GeneratedCode\Sealed driver inh.Person.cs" />
+  <Message Timestamp="2015-10-20T15:55:12" Importance="Medium" Text="'DomainDiagram::sealed Order inh.DomainObject' -  (Class) : success (file created) - D:\HTCWPF\HTCWPF\DomainDiagramLib\GeneratedCode\sealed Order inh.DomainObject.cs" />
+  <Message Timestamp="2015-10-20T15:55:12" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2015-10-20T15:55:12" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2015-10-20T15:55:12" Importance="Diagnostic" Text="ProjectPath = ..\DomainDiagramLib\DomainDiagramLib.csproj" />
+  <Message Timestamp="2015-10-20T15:55:12" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2015-10-20T15:55:12" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2015-10-20T15:55:12" Importance="Diagnostic" Text="TemplateFilePath = D:\PLIKI PROGRAMÓW (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2015-10-20T15:55:12" Importance="Diagnostic" Text="ResolvedTemplateFilePath = D:\PLIKI PROGRAMÓW (X86)\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2015-10-20T15:55:12" Importance="Medium" Text="DomainDiagram's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'DomainDiagram::Abst. DomainObject' -  (Class), 'DomainDiagram::Abst.Person inh.DomainObject' -  (Class), 'DomainDiagram::Sealed Admin inh.Person' -  (Class), 'DomainDiagram::Sealed driver inh.Person' -  (Class), 'DomainDiagram::sealed Order inh.DomainObject' -  (Class) " />
+  <Message Timestamp="2015-10-20T15:55:12" Importance="Diagnostic" Text="'DomainDiagram::Abst. DomainObject' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2015-10-20T15:55:12" Importance="Diagnostic" Text="'DomainDiagram::Abst.Person inh.DomainObject' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2015-10-20T15:55:13" Importance="Diagnostic" Text="'DomainDiagram::Sealed Admin inh.Person' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2015-10-20T15:55:13" Importance="Diagnostic" Text="'DomainDiagram::Sealed driver inh.Person' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2015-10-20T15:55:13" Importance="Diagnostic" Text="'DomainDiagram::sealed Order inh.DomainObject' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2015-10-20T15:55:13" Importance="Diagnostic" Text="The selection included 5 elements which were not bound to a template." />
+  <Message Timestamp="2015-10-20T15:55:13" Importance="Diagnostic" Text="'e75d7df3-1663-4eac-b6a8-d3e64b9b50a9' -  (Generalization): no bound template." />
+  <Message Timestamp="2015-10-20T15:55:13" Importance="Diagnostic" Text="'395b05a5-d726-4c54-8ac4-97b9fd31f533' -  (Generalization): no bound template." />
+  <Message Timestamp="2015-10-20T15:55:13" Importance="Diagnostic" Text="'02e0c903-1765-44a5-a25e-0a667d45e93b' -  (Generalization): no bound template." />
+  <Message Timestamp="2015-10-20T15:55:13" Importance="Diagnostic" Text="'DomainDiagram::' -  (Dependency): no bound template." />
+  <Message Timestamp="2015-10-20T15:55:13" Importance="Diagnostic" Text="'DomainDiagram::' -  (Dependency): no bound template." />
+  <Message Timestamp="2015-10-20T15:55:13" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>

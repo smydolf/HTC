@@ -1,0 +1,44 @@
+D:\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\ConsolToHelp.exe.config
+D:\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\ConsolToHelp.exe
+D:\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\ConsolToHelp.pdb
+D:\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\EntityFramework.dll
+D:\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\EntityFramework.SqlServer.dll
+D:\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTC.DAL.dll
+D:\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTC.DAL.EF.dll
+D:\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTCDOMAIN.dll
+D:\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTCSERVICES.dll
+D:\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTCUT.dll
+D:\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTCWPF.exe
+D:\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTC.DAL.EF.pdb
+D:\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTC.DAL.pdb
+D:\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTCDOMAIN.pdb
+D:\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTCSERVICES.pdb
+D:\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTCUT.pdb
+D:\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTCWPF.pdb
+D:\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\EntityFramework.xml
+D:\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\EntityFramework.SqlServer.xml
+D:\HTCPROJECT\HTCWPF\ConsolToHelp\obj\Debug\ConsolToHelp.csprojResolveAssemblyReference.cache
+D:\HTCPROJECT\HTCWPF\ConsolToHelp\obj\Debug\ConsolToHelp.exe
+D:\HTCPROJECT\HTCWPF\ConsolToHelp\obj\Debug\ConsolToHelp.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\ConsolToHelp.exe.config
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\obj\Debug\ConsolToHelp.exe
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\obj\Debug\ConsolToHelp.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\ConsolToHelp.exe
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\ConsolToHelp.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\EntityFramework.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTC.DAL.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTC.DAL.EF.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTCDOMAIN.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTCSERVICES.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTCUT.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTCWPF.exe
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTC.DAL.EF.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTC.DAL.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTCDOMAIN.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTCSERVICES.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTCUT.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\HTCWPF.pdb
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\EntityFramework.xml
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\obj\Debug\ConsolToHelp.csprojResolveAssemblyReference.cache
