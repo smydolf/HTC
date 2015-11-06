@@ -3,6 +3,7 @@ using System.Data.Entity;
 using System.Linq;
 using System.Linq.Expressions;
 using HTC.DAL.Interface;
+using HTCDOMAIN.Abstract;
 
 namespace HTC.DAL.EF
 {
@@ -20,9 +21,11 @@ namespace HTC.DAL.EF
         }
 
 
-        public void AddEntity(T entity)
+      
+
+        public T AddEntity(T entity)
         {
-            DbSet.Add(entity);
+            return (T) DbSet.Add(entity);
             
         }
 
@@ -32,10 +35,10 @@ namespace HTC.DAL.EF
             
         }
 
-        public void DeleteEntity(T entity)
+        public T DeleteEntity(T entity)
         {
-            DbSet.Remove(entity);
-            
+           
+           return (T) DbSet.Remove(entity);
         }
 
         public IQueryable<T> GetList()

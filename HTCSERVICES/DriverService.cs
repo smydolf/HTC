@@ -46,5 +46,10 @@ namespace HTCSERVICES
         {
             base.AddEntity(driver);
         }
+
+        public static implicit operator DriverService(ProductService v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

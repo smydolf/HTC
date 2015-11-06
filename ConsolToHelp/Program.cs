@@ -41,6 +41,19 @@ namespace ConsolToHelp
                 Console.WriteLine(l.Name + "   "+l.Price);
             }
 
+            //Console.ReadKey();
+
+            //usywanie
+            
+            service2.DeleteEntity(driver);
+            service2.SaveChange();
+            Console.WriteLine("-----------");
+            var lista2 = service.GetAll();
+            foreach (var l in lista2)
+            {
+                Console.WriteLine(l.Name + "   " + l.Price);
+            }
+
             Console.ReadKey();
         }
     }

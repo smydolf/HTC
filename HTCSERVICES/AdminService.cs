@@ -24,9 +24,9 @@ namespace HTCSERVICES
             base.DeleteEntity(admin);
         }
 
-        Admin IAdminService.GetEntity<T>(object primaryKey)
+        Admin IAdminService.GetEntity<T>(int Id)
         {
-            return base.GetEntity(primaryKey);
+            return base.GetEntity(Id);
         }
 
         IQueryable<Admin> IAdminService.GetList()

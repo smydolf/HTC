@@ -42,3 +42,5 @@ C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\
 C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\EntityFramework.xml
 C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\obj\Debug\ConsolToHelp.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml

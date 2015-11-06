@@ -12,6 +12,6 @@ namespace HTCSERVICES.Interface
         void UpdateEntity(Admin admin);
         void DeleteEntity(Admin admin);
         IQueryable<OrderLine> GetList(Expression<Func<Order, bool>> query);
-        Admin GetEntity<T>(object primaryKey);
+        Admin GetEntity<T>(int Id);
     }
 }

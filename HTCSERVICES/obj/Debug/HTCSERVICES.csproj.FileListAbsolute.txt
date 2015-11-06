@@ -1,4 +1,4 @@
-﻿C:\Users\Piotr\Documents\HTC\HTCWPF\HTCSERVICES\bin\Debug\DatabaseFile\HTCDatabase.mdf
+C:\Users\Piotr\Documents\HTC\HTCWPF\HTCSERVICES\bin\Debug\DatabaseFile\HTCDatabase.mdf
 C:\Users\Piotr\Documents\HTC\HTCWPF\HTCSERVICES\bin\Debug\DatabaseFile\HTCDatabase_log.ldf
 C:\Users\Piotr\Documents\HTC\HTCWPF\HTCSERVICES\bin\Debug\HTCSERVICES.dll
 C:\Users\Piotr\Documents\HTC\HTCWPF\HTCSERVICES\bin\Debug\HTCSERVICES.pdb
