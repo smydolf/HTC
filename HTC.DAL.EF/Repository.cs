@@ -1,15 +1,15 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
 using System.Linq.Expressions;
 using HTC.DAL.Interface;
-using HTCDOMAIN.Abstract;
 
 namespace HTC.DAL.EF
 {
 
 
-    public abstract class Repository<T> : IRepository<T> where T: class
+    public abstract class Repository<T> : IRepository<T> where T : class
     {
         public HtcEfDbContext Context { get; set; }
         protected DbSet DbSet { get; set; }
@@ -17,33 +17,30 @@ namespace HTC.DAL.EF
         protected Repository(HtcEfDbContext context)
         {
             Context = context;
-            DbSet=Context.Set<T>();
+            DbSet = Context.Set<T>();
         }
 
-
-      
+        public IEnumerable<T> QEntityQueryable
+        {
+            get { return Context.Set<T>(); }
+        }
 
         public T AddEntity(T entity)
         {
-            return (T) DbSet.Add(entity);
-            
+            return DbSet.Add(entity) as T;
         }
-
         public void UpdateEntity(T entity)
         {
             DbSet.Attach(entity);
-            
         }
-
         public T DeleteEntity(T entity)
         {
-           
-           return (T) DbSet.Remove(entity);
-        }
 
-        public IQueryable<T> GetList()
+            return (T)DbSet.Remove(entity);
+        }
+        public IEnumerable<T> GetList()
         {
-            IQueryable<T> query = Context.Set<T>();
+            IEnumerable<T> query = Context.Set<T>();
             return query;
         }
 

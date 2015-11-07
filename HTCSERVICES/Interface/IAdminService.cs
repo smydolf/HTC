@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using HTCDOMAIN.Abstract;
@@ -7,7 +8,7 @@ namespace HTCSERVICES.Interface
 {
     public interface IAdminService
     {
-        IQueryable<Admin> GetList();
+        IEnumerable<Admin> GetList();
         void AddEntity(Admin admin);
         void UpdateEntity(Admin admin);
         void DeleteEntity(Admin admin);

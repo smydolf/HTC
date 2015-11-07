@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Configuration;
-using HTC.DAL;
 using HTC.DAL.EF;
 using HTCDOMAIN.Abstract;
 using HTCSERVICES;
-using HTCSERVICES.Interface;
 
 namespace ConsolToHelp
 {
@@ -41,9 +38,9 @@ namespace ConsolToHelp
                 Console.WriteLine(l.Name + "   "+l.Price);
             }
 
-            //Console.ReadKey();
+           
 
-            //usywanie
+            //usuwanie
             
             service2.DeleteEntity(driver);
             service2.SaveChange();

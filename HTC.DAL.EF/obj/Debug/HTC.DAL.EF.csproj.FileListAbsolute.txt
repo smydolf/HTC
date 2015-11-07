@@ -63,3 +63,17 @@ C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL.EF\obj\De
 C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL.EF\obj\Debug\HTC.DAL.EF.dll
 C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL.EF\obj\Debug\HTC.DAL.EF.pdb
 C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTC.DAL.EF\bin\Debug\HTC.DAL.EF.dll
+D:\NewHTCProject\HTC.DAL.EF\obj\Debug\HTC.DAL.EF.csprojResolveAssemblyReference.cache
+D:\NewHTCProject\HTC.DAL.EF\bin\Debug\HTC.DAL.EF.dll.config
+D:\NewHTCProject\HTC.DAL.EF\bin\Debug\HTC.DAL.EF.dll
+D:\NewHTCProject\HTC.DAL.EF\bin\Debug\HTC.DAL.EF.pdb
+D:\NewHTCProject\HTC.DAL.EF\bin\Debug\EntityFramework.dll
+D:\NewHTCProject\HTC.DAL.EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\NewHTCProject\HTC.DAL.EF\bin\Debug\HTC.DAL.dll
+D:\NewHTCProject\HTC.DAL.EF\bin\Debug\HTCDOMAIN.dll
+D:\NewHTCProject\HTC.DAL.EF\bin\Debug\HTC.DAL.pdb
+D:\NewHTCProject\HTC.DAL.EF\bin\Debug\HTCDOMAIN.pdb
+D:\NewHTCProject\HTC.DAL.EF\bin\Debug\EntityFramework.xml
+D:\NewHTCProject\HTC.DAL.EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\NewHTCProject\HTC.DAL.EF\obj\Debug\HTC.DAL.EF.dll
+D:\NewHTCProject\HTC.DAL.EF\obj\Debug\HTC.DAL.EF.pdb

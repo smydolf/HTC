@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using HTC.DAL;
@@ -29,7 +30,7 @@ namespace HTCSERVICES
             return base.GetEntity(Id);
         }
 
-        IQueryable<Admin> IAdminService.GetList()
+        IEnumerable<Admin> IAdminService.GetList()
         {
             return base.GetList();
         }

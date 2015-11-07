@@ -1,5 +1,4 @@
 ﻿using System.Data.Entity;
-using HTCDOMAIN;
 using HTCDOMAIN.Abstract;
 
 namespace HTC.DAL.EF

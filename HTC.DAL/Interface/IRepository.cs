@@ -1,18 +1,20 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using HTCDOMAIN.Abstract;
 
 namespace HTC.DAL.Interface
 {
-    public interface IRepository<T>
+    public interface IRepository<T> where T:  class
     {
-        T AddEntity(T entity);
+        IEnumerable<T> QEntityQueryable { get; } 
+         T AddEntity(T entity);
         void UpdateEntity(T entity);
 
         T DeleteEntity(T entity);
 
-        IQueryable<T> GetList();
+        IEnumerable<T> GetList();
 
         IQueryable<T> GetList(Expression<Func<T, bool>> query);
 

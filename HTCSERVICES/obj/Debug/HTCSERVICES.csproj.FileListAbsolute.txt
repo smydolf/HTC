@@ -44,3 +44,19 @@ C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCSERVICES\bin\D
 C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCSERVICES\bin\Debug\HTCDOMAIN.pdb
 C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCSERVICES\obj\Debug\HTCSERVICES.pdb
+D:\NewHTCProject\HTCSERVICES\obj\Debug\HTCSERVICES.csprojResolveAssemblyReference.cache
+D:\NewHTCProject\HTCSERVICES\bin\Debug\HTCSERVICES.dll.config
+D:\NewHTCProject\HTCSERVICES\bin\Debug\HTCSERVICES.dll
+D:\NewHTCProject\HTCSERVICES\bin\Debug\HTCSERVICES.pdb
+D:\NewHTCProject\HTCSERVICES\bin\Debug\EntityFramework.dll
+D:\NewHTCProject\HTCSERVICES\bin\Debug\EntityFramework.SqlServer.dll
+D:\NewHTCProject\HTCSERVICES\bin\Debug\HTC.DAL.dll
+D:\NewHTCProject\HTCSERVICES\bin\Debug\HTC.DAL.EF.dll
+D:\NewHTCProject\HTCSERVICES\bin\Debug\HTCDOMAIN.dll
+D:\NewHTCProject\HTCSERVICES\bin\Debug\HTC.DAL.EF.pdb
+D:\NewHTCProject\HTCSERVICES\bin\Debug\HTC.DAL.pdb
+D:\NewHTCProject\HTCSERVICES\bin\Debug\EntityFramework.xml
+D:\NewHTCProject\HTCSERVICES\bin\Debug\EntityFramework.SqlServer.xml
+D:\NewHTCProject\HTCSERVICES\bin\Debug\HTCDOMAIN.pdb
+D:\NewHTCProject\HTCSERVICES\obj\Debug\HTCSERVICES.dll
+D:\NewHTCProject\HTCSERVICES\obj\Debug\HTCSERVICES.pdb

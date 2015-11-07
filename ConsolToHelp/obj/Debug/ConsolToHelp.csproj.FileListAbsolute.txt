@@ -44,3 +44,27 @@ C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\
 C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\obj\Debug\ConsolToHelp.csprojResolveAssemblyReference.cache
 C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\ConsolToHelp\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\NewHTCProject\ConsolToHelp\obj\Debug\ConsolToHelp.csprojResolveAssemblyReference.cache
+D:\NewHTCProject\ConsolToHelp\bin\Debug\ConsolToHelp.exe.config
+D:\NewHTCProject\ConsolToHelp\bin\Debug\ConsolToHelp.exe
+D:\NewHTCProject\ConsolToHelp\bin\Debug\ConsolToHelp.pdb
+D:\NewHTCProject\ConsolToHelp\bin\Debug\EntityFramework.dll
+D:\NewHTCProject\ConsolToHelp\bin\Debug\EntityFramework.SqlServer.dll
+D:\NewHTCProject\ConsolToHelp\bin\Debug\HTC.DAL.dll
+D:\NewHTCProject\ConsolToHelp\bin\Debug\HTC.DAL.EF.dll
+D:\NewHTCProject\ConsolToHelp\bin\Debug\HTCDOMAIN.dll
+D:\NewHTCProject\ConsolToHelp\bin\Debug\HTCSERVICES.dll
+D:\NewHTCProject\ConsolToHelp\bin\Debug\HTCUT.dll
+D:\NewHTCProject\ConsolToHelp\bin\Debug\HTCWPF.exe
+D:\NewHTCProject\ConsolToHelp\bin\Debug\HTC.DAL.EF.pdb
+D:\NewHTCProject\ConsolToHelp\bin\Debug\HTC.DAL.pdb
+D:\NewHTCProject\ConsolToHelp\bin\Debug\HTCDOMAIN.pdb
+D:\NewHTCProject\ConsolToHelp\bin\Debug\HTCSERVICES.pdb
+D:\NewHTCProject\ConsolToHelp\bin\Debug\HTCUT.pdb
+D:\NewHTCProject\ConsolToHelp\bin\Debug\HTCWPF.pdb
+D:\NewHTCProject\ConsolToHelp\bin\Debug\EntityFramework.xml
+D:\NewHTCProject\ConsolToHelp\bin\Debug\EntityFramework.SqlServer.xml
+D:\NewHTCProject\ConsolToHelp\obj\Debug\ConsolToHelp.exe
+D:\NewHTCProject\ConsolToHelp\obj\Debug\ConsolToHelp.pdb
+D:\NewHTCProject\ConsolToHelp\bin\Debug\Moq.dll
+D:\NewHTCProject\ConsolToHelp\bin\Debug\Moq.xml

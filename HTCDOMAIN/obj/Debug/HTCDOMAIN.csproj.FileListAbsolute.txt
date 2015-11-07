@@ -1,4 +1,4 @@
-﻿D:\HTCWPF\HTCWPF\HTCDOMAIN\bin\Debug\HTCDOMAIN.dll
+D:\HTCWPF\HTCWPF\HTCDOMAIN\bin\Debug\HTCDOMAIN.dll
 D:\HTCWPF\HTCWPF\HTCDOMAIN\bin\Debug\HTCDOMAIN.pdb
 D:\HTCWPF\HTCWPF\HTCDOMAIN\obj\Debug\HTCDOMAIN.csprojResolveAssemblyReference.cache
 D:\HTCWPF\HTCWPF\HTCDOMAIN\obj\Debug\HTCDOMAIN.dll
@@ -40,3 +40,13 @@ C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCDOMAIN\bin\Deb
 C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCDOMAIN\obj\Debug\HTCDOMAIN.csprojResolveAssemblyReference.cache
 C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCDOMAIN\obj\Debug\HTCDOMAIN.dll
 C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCDOMAIN\obj\Debug\HTCDOMAIN.pdb
+D:\NewHTCProject\HTCDOMAIN\bin\Debug\HTCDOMAIN.dll.config
+D:\NewHTCProject\HTCDOMAIN\bin\Debug\HTCDOMAIN.dll
+D:\NewHTCProject\HTCDOMAIN\bin\Debug\HTCDOMAIN.pdb
+D:\NewHTCProject\HTCDOMAIN\obj\Debug\HTCDOMAIN.csprojResolveAssemblyReference.cache
+D:\NewHTCProject\HTCDOMAIN\obj\Debug\HTCDOMAIN.dll
+D:\NewHTCProject\HTCDOMAIN\obj\Debug\HTCDOMAIN.pdb
+D:\NewHTCProject\HTCDOMAIN\bin\Debug\EntityFramework.dll
+D:\NewHTCProject\HTCDOMAIN\bin\Debug\EntityFramework.SqlServer.dll
+D:\NewHTCProject\HTCDOMAIN\bin\Debug\EntityFramework.xml
+D:\NewHTCProject\HTCDOMAIN\bin\Debug\EntityFramework.SqlServer.xml
