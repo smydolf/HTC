@@ -54,6 +54,7 @@
   <ItemGroup>
     <Compile Include="AdminService.cs" />
     <Compile Include="DriverService.cs" />
+    <Compile Include="Interface\IAddressService.cs" />
     <Compile Include="Interface\IAdminService.cs" />
     <Compile Include="Interface\IDriverservice.cs" />
     <Compile Include="Interface\IOrderLineService.cs" />

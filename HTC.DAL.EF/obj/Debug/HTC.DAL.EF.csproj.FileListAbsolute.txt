@@ -77,3 +77,16 @@ D:\NewHTCProject\HTC.DAL.EF\bin\Debug\EntityFramework.xml
 D:\NewHTCProject\HTC.DAL.EF\bin\Debug\EntityFramework.SqlServer.xml
 D:\NewHTCProject\HTC.DAL.EF\obj\Debug\HTC.DAL.EF.dll
 D:\NewHTCProject\HTC.DAL.EF\obj\Debug\HTC.DAL.EF.pdb
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL.EF\bin\Debug\HTC.DAL.EF.dll.config
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL.EF\bin\Debug\HTC.DAL.EF.pdb
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL.EF\bin\Debug\EntityFramework.dll
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL.EF\bin\Debug\HTC.DAL.dll
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL.EF\bin\Debug\HTCDOMAIN.dll
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL.EF\bin\Debug\HTC.DAL.pdb
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL.EF\bin\Debug\HTCDOMAIN.pdb
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL.EF\bin\Debug\EntityFramework.xml
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL.EF\obj\Debug\HTC.DAL.EF.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL.EF\obj\Debug\HTC.DAL.EF.dll
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL.EF\obj\Debug\HTC.DAL.EF.pdb

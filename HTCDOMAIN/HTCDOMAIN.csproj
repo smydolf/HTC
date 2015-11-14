@@ -61,10 +61,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractDB\AddressDbObject.cs" />
+    <Compile Include="AbstractDB\CategoryDbObject.cs" />
+    <Compile Include="AbstractDB\MenuDbObject.cs" />
+    <Compile Include="AbstractDB\OrderDbObject.cs" />
+    <Compile Include="AbstractDB\OrderDetailDbObject.cs" />
+    <Compile Include="AbstractDB\ProductDbObject.cs" />
+    <Compile Include="AbstractDB\PurchaserDbObject.cs" />
+    <Compile Include="AbstractDB\SizeDbObject.cs" />
+    <Compile Include="AbstractDB\UserDbObject.cs" />
+    <Compile Include="AbstractDB\UserRoleDbObject.cs" />
     <Compile Include="Abstract\Admin.cs" />
-    <Compile Include="Abstract\Adress.cs" />
+    <Compile Include="Abstract\Address.cs" />
+    <Compile Include="Abstract\BaseClass.cs" />
     <Compile Include="Abstract\Order.cs" />
     <Compile Include="Abstract\OrderLine.cs" />
+    <Compile Include="Abstract\Purchaser.cs" />
     <Compile Include="Abstract\Size.cs" />
     <Compile Include="Abstract\DomainObject.cs" />
     <Compile Include="Abstract\Driver.cs" />

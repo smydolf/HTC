@@ -15,10 +15,19 @@ namespace ConsolToHelp
                 Price = 69,
 
             };
+            //Driver driver = new Driver()
+            //{
+            //    FirstName = "Adrian",
+            //    LastName = "Smyda",
+            //};
             Driver driver = new Driver()
             {
+                Id = 0,
+                AddedDate = DateTime.Now,
+                ModifiedDate = DateTime.Now,
                 FirstName = "Adrian",
-                LastName = "Smyda",
+                LastName = "Smyda"
+
             };
 
             HtcEfDbContext context = new HtcEfDbContext();

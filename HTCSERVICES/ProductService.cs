@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using HTC.DAL.EF;
 using HTCDOMAIN.Abstract;
@@ -16,19 +17,31 @@ namespace HTCSERVICES
         {
             return Context.Set<Products>().ToList();
         }
-
+    
         public Products GetById(int id)
         {
+            if (id == null)
+            {
+                throw new ArgumentNullException(nameof(id));
+            }
             return Context.Set<Products>().Find(id);
         }
 
         public void Update(Products products)
         {
+            if (products == null)
+            {
+                throw new ArgumentNullException(nameof(products));
+            }
             base.UpdateEntity(products);
         }
 
         public void Delete(Products products)
         {
+            if (products == null)
+            {
+                throw new ArgumentNullException(nameof(products));
+            }
             base.DeleteEntity(products);
             
         }
@@ -36,12 +49,20 @@ namespace HTCSERVICES
         public void DeleteById(int id)
         {
             var toDelete = GetById(id);
+            if (toDelete == null)
+            {
+                throw new ArgumentNullException(nameof(toDelete));
+            }
             Context.Set<Products>().Remove(toDelete);
             
         }
 
         public void AddNew(Products products)
         {
+            if (products == null)
+            {
+                throw new ArgumentNullException(nameof(products));
+            }
             base.AddEntity(products);
         }
     }
