@@ -64,6 +64,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractDB\AddressDbObject.cs" />
+    <Compile Include="AbstractDB\BaseClass.cs" />
+    <Compile Include="AbstractDB\CategoryDbObject.cs" />
+    <Compile Include="AbstractDB\MenuDbObject.cs" />
+    <Compile Include="AbstractDB\OrderDbObject.cs" />
+    <Compile Include="AbstractDB\OrderDetailDbObject.cs" />
+    <Compile Include="AbstractDB\ProductDbObject.cs" />
+    <Compile Include="AbstractDB\PurchaserDbObject.cs" />
+    <Compile Include="AbstractDB\SizeDbObject.cs" />
+    <Compile Include="AbstractDB\UserDbObject.cs" />
+    <Compile Include="AbstractDB\UserRoleDbObject.cs" />
     <Compile Include="Abstract\Admin.cs" />
     <Compile Include="Abstract\Order.cs" />
     <Compile Include="Abstract\OrderLine.cs" />
@@ -73,10 +84,6 @@
     <Compile Include="Abstract\Person.cs" />
     <Compile Include="Abstract\Products.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SqlDatabaseSetup.cs" />
-    <Compile Include="SqlServerUnitTest1.cs">
-      <SubType>Component</SubType>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5.1">

@@ -40,3 +40,15 @@ D:\NewHTCProject\HTC.DAL\bin\Debug\EntityFramework.dll
 D:\NewHTCProject\HTC.DAL\bin\Debug\EntityFramework.SqlServer.dll
 D:\NewHTCProject\HTC.DAL\bin\Debug\EntityFramework.xml
 D:\NewHTCProject\HTC.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL\bin\Debug\HTC.DAL.dll.config
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL\bin\Debug\HTC.DAL.dll
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL\bin\Debug\HTC.DAL.pdb
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL\bin\Debug\HTCDOMAIN.dll
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL\bin\Debug\HTCDOMAIN.pdb
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL\obj\Debug\HTC.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL\obj\Debug\HTC.DAL.dll
+C:\Users\Piotr\Documents\NoweRepo\HTC.DAL\obj\Debug\HTC.DAL.pdb

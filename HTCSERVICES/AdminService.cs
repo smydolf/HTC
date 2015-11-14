@@ -15,34 +15,55 @@ namespace HTCSERVICES
         {
         }
 
-        void IAdminService.AddEntity(Admin admin)
+        public List<Admin> GetAll()
         {
-            base.AddEntity(admin);
+            return Context.Set<Admin>().ToList();
         }
 
-        void IAdminService.DeleteEntity(Admin admin)
+        public Admin GetById(int id)
         {
+            if (id == null)
+            {
+                throw new ArgumentNullException(nameof(id));
+            }
+            return Context.Set<Admin>().Find(id);
+        }
+
+        public void Update(Admin admin)
+        {
+            if (admin == null)
+            {
+                throw new ArgumentNullException(nameof(admin));
+            }
+            base.UpdateEntity(admin);
+        }
+
+        public void Delete(Admin admin)
+        {
+            if (admin == null)
+            {
+                throw new ArgumentNullException(nameof(admin));
+            }
             base.DeleteEntity(admin);
         }
 
-        Admin IAdminService.GetEntity<T>(int Id)
+        public void DeleteById(int id)
         {
-            return base.GetEntity(Id);
+            var toDelete = GetById(id);
+            if (toDelete == null)
+            {
+                throw new ArgumentNullException(nameof(toDelete));
+            }
+            Context.Set<Admin>().Remove(toDelete);
         }
 
-        IEnumerable<Admin> IAdminService.GetList()
+        public void AddNew(Admin admin)
         {
-            return base.GetList();
-        }
-
-        IQueryable<OrderLine> IAdminService.GetList(Expression<Func<Order, bool>> query)
-        {
-            throw new NotImplementedException("dupa");
-        }
-
-        void IAdminService.UpdateEntity(Admin admin)
-        {
-            base.UpdateEntity(admin);
+            if (admin == null)
+            {
+                throw new ArgumentNullException(nameof(admin));
+            }
+            base.AddEntity(admin);
         }
     }
 }

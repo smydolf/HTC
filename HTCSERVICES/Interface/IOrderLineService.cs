@@ -10,11 +10,11 @@ namespace HTCSERVICES.Interface
 {
     public interface IOrderLineService
     {
-        IQueryable<OrderLine> GetList();
-        OrderLine AddEntity(OrderLine orderLine);
-        OrderLine UpdateEntity(OrderLine orderLine);
-        void DeleteEntity(OrderLine orderLine);
-        IQueryable<OrderLine> GetList(Expression<Func<Order, bool>> query);
-        OrderLine GetEntity<T>(object primaryKey);
+        List<OrderLine> GetAll();
+        OrderLine GetById(int id);
+        void Update(OrderLine orderLine);
+        void Delete(OrderLine orderLine);
+        void DeleteById(int id);
+        void AddNew(OrderLine orderLine);
     }
 }

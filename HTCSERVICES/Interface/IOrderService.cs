@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using HTCDOMAIN.Abstract;
@@ -9,11 +10,11 @@ namespace HTCSERVICES.Interface
 
     public interface IOrderService
     {
-        IQueryable<Order> GetList();
-        Order AddEntity(Order order);
-        Order UpdateEntity(Order order);
-        void DeleteEntity(Order order);
-        IQueryable<Order> GetList(Expression<Func<Order, bool>> query);
-        Order GetEntity<T>(object primaryKey);
+        List<Order> GetAll();
+        Order GetById(int id);
+        void Update(Order order);
+        void Delete(Order order);
+        void DeleteById(int id);
+        void AddNew(Order order);
     }
 }

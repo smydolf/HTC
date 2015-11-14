@@ -20,7 +20,9 @@ namespace HTCDOMAIN.Abstract
 
         public DateTime DateTime { get; set; }
 
+
         public OrderAdress Adress { get; set; }
+
         public Driver Driver { get; set; }
 
         public IList<OrderLine> OrderLines { get; set; }

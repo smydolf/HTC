@@ -8,11 +8,11 @@ namespace HTCSERVICES.Interface
 {
     public interface IAdminService
     {
-        IEnumerable<Admin> GetList();
-        void AddEntity(Admin admin);
-        void UpdateEntity(Admin admin);
-        void DeleteEntity(Admin admin);
-        IQueryable<OrderLine> GetList(Expression<Func<Order, bool>> query);
-        Admin GetEntity<T>(int Id);
+        List<Admin> GetAll();
+        Admin GetById(int id);
+        void Update(Admin admin);
+        void Delete(Admin admin);
+        void DeleteById(int id);
+        void AddNew(Admin admin);
     }
 }
