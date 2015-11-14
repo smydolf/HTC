@@ -23,10 +23,10 @@ namespace HTCDOMAIN.Abstract
         {
             Product.Add(product);
         }
-        //private void DeleteOrder(Order order)
-        //{
-        //    if (Order != null && Order.Contains(order)) Order.Remove(order);
-        //}
-        //TODO
+        private void DeleteOrder(Order order)
+        {
+            if (Order != null && Order.Contains(order)) Order.Remove(order);
+        }
+        
     }
 }

@@ -1,9 +1,7 @@
 ﻿namespace HTCDOMAIN.Abstract
 {
-    public class Driver 
+    public class Driver : Person
     {
-        public int Id { get; set; }
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
+     
     }
 }

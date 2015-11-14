@@ -3,12 +3,24 @@ using System.Collections.Generic;
  
 namespace HTCDOMAIN.Abstract
 {
+
     public class Order :DomainObject
     {
+        public enum OrderAdress
+        {
+            Muszyna,
+            Krynica,
+            Szczawnik,
+            Zlockie,
+            Powroznik,
+            Milik,
+            Andrzejowka,
+            Zegeistow
+        }
 
         public DateTime DateTime { get; set; }
 
-        public Adress Adress { get; set; }
+        public OrderAdress Adress { get; set; }
         public Driver Driver { get; set; }
 
         public IList<OrderLine> OrderLines { get; set; }
@@ -22,8 +34,6 @@ namespace HTCDOMAIN.Abstract
                 OrderLines = new List<OrderLine>();
             }
             OrderLines.Add(new OrderLine(this, product, quantity));
-
-            //OrderLines == null ? OrderLines = new List<OrderLine>() : OrderLines.Add(new OrderLine(this, product,quantity));
         }
     }
 }

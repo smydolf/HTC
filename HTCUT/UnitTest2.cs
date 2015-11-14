@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.CompilerServices;
 using HTC.DAL.Interface;
 using HTCDOMAIN.Abstract;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
@@ -29,7 +27,6 @@ namespace HTCUT
 
         private Products prod1 = new Products()
         {
-
             Id = 4,
             Name = "Rapid salad",
             Price = (decimal)10.0
@@ -63,16 +60,13 @@ namespace HTCUT
             Mock<IRepository<Products>> mockRepo = new Mock<IRepository<Products>>();
             mockRepo.Setup(m => m.GetList()).Returns(products);
             mockRepo.Setup(m => m.GetEntity(It.IsAny<int>()))
-                .Returns((int i) => products.Where(x => x.Id == i).Single());
+                .Returns((int i) => products.Single(x => x.Id == i));
 
             mockRepo.Setup(m => m.AddEntity(It.IsAny<Products>())).Returns((Products product) =>
             {
                 products.Add(product);
                 return product;
             });
-
-
-
             mockRepo.Setup(m => m.DeleteEntity(It.IsAny<Products>())).Returns((Products product) =>
             {
                 products.Remove(product);
@@ -86,7 +80,6 @@ namespace HTCUT
         {
             int productCount = this.repository.GetList().Count();
             Assert.AreEqual(3, productCount);
-
         }
 
         [TestMethod]

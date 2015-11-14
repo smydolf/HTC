@@ -46,7 +46,7 @@ namespace HTC.DAL.EF
 
         public IQueryable<T> GetList(Expression<Func<T, bool>> query)
         {
-            throw new NotImplementedException();
+            throw new NotImplementedException();//TODO
         }
 
         public T GetEntity(object primaryKey)
