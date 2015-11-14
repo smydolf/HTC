@@ -63,14 +63,6 @@ C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCWPF\obj\Debug\
 C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCWPF\obj\Debug\HTCWPF.csproj.GenerateResource.Cache
 C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCWPF\obj\Debug\HTCWPF.exe
 C:\Users\Piotr\Desktop\kody super są\HTCWPF\HTCPROJECT\HTCWPF\HTCWPF\obj\Debug\HTCWPF.pdb
-D:\NewHTCProject\HTCWPF\obj\Debug\HTCWPF.csprojResolveAssemblyReference.cache
-D:\NewHTCProject\HTCWPF\obj\Debug\MainWindow.baml
-D:\NewHTCProject\HTCWPF\obj\Debug\MainWindow.g.cs
-D:\NewHTCProject\HTCWPF\obj\Debug\App.g.cs
-D:\NewHTCProject\HTCWPF\obj\Debug\HTCWPF_MarkupCompile.cache
-D:\NewHTCProject\HTCWPF\obj\Debug\HTCWPF.g.resources
-D:\NewHTCProject\HTCWPF\obj\Debug\HTCWPF.Properties.Resources.resources
-D:\NewHTCProject\HTCWPF\obj\Debug\HTCWPF.csproj.GenerateResource.Cache
 D:\NewHTCProject\HTCWPF\bin\Debug\HTCWPF.exe.config
 D:\NewHTCProject\HTCWPF\bin\Debug\HTCWPF.exe
 D:\NewHTCProject\HTCWPF\bin\Debug\HTCWPF.pdb
@@ -82,5 +74,13 @@ D:\NewHTCProject\HTCWPF\bin\Debug\HTC.DAL.EF.pdb
 D:\NewHTCProject\HTCWPF\bin\Debug\HTC.DAL.pdb
 D:\NewHTCProject\HTCWPF\bin\Debug\HTCDOMAIN.pdb
 D:\NewHTCProject\HTCWPF\bin\Debug\EntityFramework.xml
+D:\NewHTCProject\HTCWPF\obj\Debug\HTCWPF.csprojResolveAssemblyReference.cache
+D:\NewHTCProject\HTCWPF\obj\Debug\MainWindow.baml
+D:\NewHTCProject\HTCWPF\obj\Debug\MainWindow.g.cs
+D:\NewHTCProject\HTCWPF\obj\Debug\App.g.cs
+D:\NewHTCProject\HTCWPF\obj\Debug\HTCWPF_MarkupCompile.cache
+D:\NewHTCProject\HTCWPF\obj\Debug\HTCWPF.g.resources
+D:\NewHTCProject\HTCWPF\obj\Debug\HTCWPF.Properties.Resources.resources
+D:\NewHTCProject\HTCWPF\obj\Debug\HTCWPF.csproj.GenerateResource.Cache
 D:\NewHTCProject\HTCWPF\obj\Debug\HTCWPF.exe
 D:\NewHTCProject\HTCWPF\obj\Debug\HTCWPF.pdb

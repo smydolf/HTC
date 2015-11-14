@@ -3,9 +3,10 @@ using HTCDOMAIN.Abstract;
 
 namespace HTCDOMAIN.AbstractDB
 {
-    [Table("Category")]
-    public class CategoryDbObject: BaseClass
+     [Table("Category")]
+    public class CategoryDbObject :BaseClass
     {
+        
         public string Name { get; set; }
     }
 }

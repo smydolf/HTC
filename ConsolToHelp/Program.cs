@@ -1,7 +1,9 @@
 ﻿using System;
 using HTC.DAL.EF;
 using HTCDOMAIN.Abstract;
+using HTCDOMAIN.AbstractDB;
 using HTCSERVICES;
+using HTCSERVICES.NewServices;
 
 namespace ConsolToHelp
 {
@@ -9,58 +11,28 @@ namespace ConsolToHelp
     {
         static void Main(string[] args)
         {
-            Products product1 = new Products()
+            ProductDbObject product1 = new ProductDbObject()
             {
-                Name = "maczeta",
-                Price = 69,
-
-            };
-            //Driver driver = new Driver()
-            //{
-            //    FirstName = "Adrian",
-            //    LastName = "Smyda",
-            //};
-            Driver driver = new Driver()
-            {
-                Id = 0,
-                AddedDate = DateTime.Now,
-                ModifiedDate = DateTime.Now,
-                FirstName = "Adrian",
-                LastName = "Smyda"
-
+                Category = new CategoryDbObject()
+                {
+                    Name = "Pizza",
+                    PrimaryKey = new Guid()
+                },
+                Name = "JakasTam",
+                PrimaryKey = new Guid()
             };
 
-            HtcEfDbContext context = new HtcEfDbContext();
-            ProductService service = new ProductService(context);
-            DriverService service2 = new DriverService(context);
-            service.AddEntity(product1);
-            service2.AddEntity(driver);
-
-            service.SaveChange();
-            service2.SaveChange();
-
-            //pobieranie
-
-            var lista = service.GetAll();
-            foreach (var l in lista)
+            CategoryDbObject PizzaCategory = new CategoryDbObject()
             {
-                Console.WriteLine(l.Name + "   "+l.Price);
-            }
+                Name = "Pizza",
+                PrimaryKey = new Guid()
+            };
 
-           
-
-            //usuwanie
             
-            service2.DeleteEntity(driver);
-            service2.SaveChange();
-            Console.WriteLine("-----------");
-            var lista2 = service.GetAll();
-            foreach (var l in lista2)
-            {
-                Console.WriteLine(l.Name + "   " + l.Price);
-            }
+            CategoryService catgeService = new CategoryService(new HtcEfDbContext());
+            catgeService.AddEntity(PizzaCategory);
+            catgeService.SaveChange();
 
-            Console.ReadKey();
         }
     }
 }

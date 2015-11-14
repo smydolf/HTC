@@ -28,6 +28,7 @@ namespace HTC.DAL.EF
         public T AddEntity(T entity)
         {
             return DbSet.Add(entity) as T;
+          
         }
         public void UpdateEntity(T entity)
         {

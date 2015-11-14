@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" />
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -11,6 +12,7 @@
     <AssemblyName>HTCSERVICES</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <NuGetPackageImportStamp>b23fe628</NuGetPackageImportStamp>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -40,7 +42,7 @@
     </Reference>
     <Reference Include="HTCDOMAIN, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\HTC.DAL.EF\bin\Debug\HTCDOMAIN.dll</HintPath>
+      <HintPath>..\HTCDOMAIN\obj\Debug\HTCDOMAIN.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
@@ -52,19 +54,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AdminService.cs" />
-    <Compile Include="DriverService.cs" />
     <Compile Include="Interface\IAddressService.cs" />
-    <Compile Include="Interface\IAdminService.cs" />
-    <Compile Include="Interface\IDriverservice.cs" />
-    <Compile Include="Interface\IOrderLineService.cs" />
-    <Compile Include="Interface\IPersonService.cs" />
+    <Compile Include="Interface\ICategoryService.cs" />
+    <Compile Include="Interface\IMenuService.cs" />
+    <Compile Include="Interface\IOrderDetailService.cs" />
     <Compile Include="Interface\IOrderService.cs" />
     <Compile Include="Interface\IProductService.cs" />
-    <Compile Include="OrderLineService.cs" />
-    <Compile Include="OrderService.cs" />
-    <Compile Include="PersonService.cs" />
-    <Compile Include="ProductService.cs" />
+    <Compile Include="Interface\IPurchaserService.cs" />
+    <Compile Include="Interface\ISizeService.cs" />
+    <Compile Include="Interface\IUserRoleService.cs" />
+    <Compile Include="Interface\IUserService.cs" />
+    <Compile Include="NewServices\AddressService.cs" />
+    <Compile Include="NewServices\CategoryService.cs" />
+    <Compile Include="NewServices\MenuService.cs" />
+    <Compile Include="NewServices\OrderDetailService.cs" />
+    <Compile Include="NewServices\PurchaserService.cs" />
+    <Compile Include="NewServices\SizeService.cs" />
+    <Compile Include="NewServices\UserRoleService.cs" />
+    <Compile Include="NewServices\UserService.cs" />
+    <Compile Include="NewServices\OrderService.cs" />
+    <Compile Include="NewServices\ProductService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -82,6 +91,12 @@
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props'))" />
+  </Target>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
