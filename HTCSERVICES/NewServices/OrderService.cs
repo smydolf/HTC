@@ -1,37 +1,33 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
-using HTC.DAL;
 using HTC.DAL.EF;
-using HTCDOMAIN.Abstract;
+using HTCDOMAIN.AbstractDB;
 using HTCSERVICES.Interface;
 
-namespace HTCSERVICES
+namespace HTCSERVICES.NewServices
 {
-    public class OrderService: Repository<Order>, IOrderService
+    public class OrderService: Repository<OrderDbObject>, IOrderService
     {
         public OrderService(HtcEfDbContext context) : base(context)
         {
         }
 
-        public List<Order> GetAll()
+        public List<OrderDbObject> GetAll()
         {
-            return Context.Set<Order>().ToList();
+            return Context.Set<OrderDbObject>().ToList();
         }
 
-        public Order GetById(int id)
+        public OrderDbObject GetById(int id)
         {
             if (id == null)
             {
                 throw new ArgumentNullException(nameof(id));
             }
-            return Context.Set<Order>().Find(id);
+            return Context.Set<OrderDbObject>().Find(id);
         }
 
-        public void Update(Order order)
+        public void Update(OrderDbObject order)
         {
             if (order == null)
             {
@@ -40,7 +36,7 @@ namespace HTCSERVICES
             base.UpdateEntity(order);
         }
 
-        public void Delete(Order order)
+        public void Delete(OrderDbObject order)
         {
             if (order == null)
             {
@@ -56,10 +52,10 @@ namespace HTCSERVICES
             {
                 throw new ArgumentNullException(nameof(toDelete));
             }
-            Context.Set<Order>().Remove(toDelete);
+            Context.Set<OrderDbObject>().Remove(toDelete);
         }
 
-        public void AddNew(Order order)
+        public void AddNew(OrderDbObject order)
         {
             if (order == null)
             {

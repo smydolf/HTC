@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using HTCDOMAIN.Abstract;
+using HTCDOMAIN.AbstractDB;
 
 namespace HTCSERVICES.Interface
 {
@@ -10,11 +11,11 @@ namespace HTCSERVICES.Interface
 
     public interface IOrderService
     {
-        List<Order> GetAll();
-        Order GetById(int id);
-        void Update(Order order);
-        void Delete(Order order);
+        List<OrderDbObject> GetAll();
+        OrderDbObject GetById(int id);
+        void Update(OrderDbObject order);
+        void Delete(OrderDbObject order);
         void DeleteById(int id);
-        void AddNew(Order order);
+        void AddNew(OrderDbObject order);
     }
 }

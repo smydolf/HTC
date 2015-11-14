@@ -52,19 +52,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AdminService.cs" />
-    <Compile Include="DriverService.cs" />
     <Compile Include="Interface\IAddressService.cs" />
-    <Compile Include="Interface\IAdminService.cs" />
-    <Compile Include="Interface\IDriverservice.cs" />
-    <Compile Include="Interface\IOrderLineService.cs" />
-    <Compile Include="Interface\IPersonService.cs" />
+    <Compile Include="Interface\ICategoryService.cs" />
+    <Compile Include="Interface\IMenuService.cs" />
+    <Compile Include="Interface\IOrderDetailService.cs" />
     <Compile Include="Interface\IOrderService.cs" />
     <Compile Include="Interface\IProductService.cs" />
-    <Compile Include="OrderLineService.cs" />
-    <Compile Include="OrderService.cs" />
-    <Compile Include="PersonService.cs" />
-    <Compile Include="ProductService.cs" />
+    <Compile Include="Interface\IPurchaserService.cs" />
+    <Compile Include="Interface\ISizeService.cs" />
+    <Compile Include="Interface\IUserRoleService.cs" />
+    <Compile Include="Interface\IUserService.cs" />
+    <Compile Include="NewServices\AddressService.cs" />
+    <Compile Include="NewServices\CategoryService.cs" />
+    <Compile Include="NewServices\MenuService.cs" />
+    <Compile Include="NewServices\OrderDetailService.cs" />
+    <Compile Include="NewServices\PurchaserService.cs" />
+    <Compile Include="NewServices\SizeService.cs" />
+    <Compile Include="NewServices\UserRoleService.cs" />
+    <Compile Include="NewServices\UserService.cs" />
+    <Compile Include="NewServices\OrderService.cs" />
+    <Compile Include="NewServices\ProductService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
